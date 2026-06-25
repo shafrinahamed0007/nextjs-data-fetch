@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Wireless Noise-Canceling Headphones",
+      "price": 250.99,
+      "category": "Electronics",
+      "description": "High-fidelity over-ear headphones with advanced active noise cancellation and a 40-hour battery life.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.7,
+      "stock": 25
+    },
+    {
+      "id": "2",
+      "title": "Minimalist Leather Wallet",
+      "price": 45.0,
+      "category": "Accessories",
+      "description": "Full-grain slim leather wallet featuring RFID-blocking technology and space for up to 8 cards.",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.5,
+      "stock": 110
+    },
+    {
+      "id": "3",
+      "title": "Ergonomic Mechanical Keyboard",
+      "price": 129.99,
+      "category": "Electronics",
+      "description": "Hot-swappable mechanical keyboard with RGB backlighting and tactile brown switches for comfortable typing.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.8,
+      "stock": 14
+    },
+    {
+      "id": "4",
+      "title": "Stainless Steel Water Bottle",
+      "price": 24.95,
+      "category": "Fitness & Outdoor",
+      "description": "Double-walled vacuum insulated bottle that keeps drinks cold for 24 hours or hot for 12 hours.",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.6,
+      "stock": 85
+    },
+    {
+      "id": "5",
+      "title": "Smart Fitness Watch",
+      "price": 159.99,
+      "category": "Electronics",
+      "description": "Tracks heart rate, sleep cycles, workouts, and delivers notifications with up to 7 days of battery life.",
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.3,
+      "stock": 42
+    },
+    {
+      "id": "6",
+      "title": "Organic Cotton Hoodie",
+      "price": 55.0,
+      "category": "Apparel",
+      "description": "Ultra-soft premium heavyweight hoodie made from 100% certified organic cotton.",
+      "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.4,
+      "stock": 60
+    },
+    {
+      "id": "7",
+      "title": "Professional Chef's Knife",
+      "price": 89.0,
+      "category": "Kitchen",
+      "description": "8-inch high-carbon German stainless steel blade designed for slicing, dicing, and chopping.",
+      "image": "https://images.unsplash.com/photo-1614362705324-8da11fd16754?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UHJvZmVzc2lvbmFsJTIwQ2hlZidzJTIwS25pZmV8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.9,
+      "stock": 19
+    },
+    {
+      "id": "8",
+      "title": "Waterproof Trail Backpack",
+      "price": 75.0,
+      "category": "Fitness & Outdoor",
+      "description": "35L lightweight hiking backpack with rain cover, trekking pole attachments, and breathable mesh straps.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.5,
+      "stock": 31
+    },
+    {
+      "id": "9",
+      "title": "Matte Black Ceramic Coffee Mug",
+      "price": 18.5,
+      "category": "Kitchen",
+      "description": "Handcrafted 12oz ceramic mug with a comfortable ergonomic handle, dishwasher and microwave safe.",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.2,
+      "stock": 150
+    },
+    {
+      "id": "10",
+      "title": "Portable Bluetooth Speaker",
+      "price": 49.99,
+      "category": "Electronics",
+      "description": "Compact IPX7 waterproof speaker with rich bass and crystal clear sound for outdoor parties.",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.6,
+      "stock": 73
+    },
+    {
+      "id": "11",
+      "title": "Natural Soy Wax Candle Set",
+      "price": 28.0,
+      "category": "Home Decor",
+      "description": "Set of three premium scented candles (Lavender, Eucalyptus, and Sandalwood) made from sustainable soy.",
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.7,
+      "stock": 95
+    },
+    {
+      "id": "12",
+      "title": "Eco-Friendly Yoga Mat",
+      "price": 39.99,
+      "category": "Fitness & Outdoor",
+      "description": "6mm thick, non-slip TPE mat offering excellent cushioning and joint support for daily practice.",
+      "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.4,
+      "stock": 54
+    },
+    {
+      "id": "13",
+      "title": "Desktop LED Ring Light",
+      "price": 32.5,
+      "category": "Electronics",
+      "description": "10-inch ring light with extendable tripod stand and 3 light modes for video calls and content creation.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.1,
+      "stock": 40
+    },
+    {
+      "id": "14",
+      "title": "Classic Denim Jacket",
+      "price": 68.0,
+      "category": "Apparel",
+      "description": "Timeless, sturdy button-up denim jacket with a relaxed fit and functional chest pockets.",
+      "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.6,
+      "stock": 28
+    },
+    {
+      "id": "15",
+      "title": "Electric Milk Frother",
+      "price": 22.0,
+      "category": "Kitchen",
+      "description": "Handheld battery-operated frother that creates creamy foam for lattes and cappuccinos in seconds.",
+      "image": "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.5,
+      "stock": 120
+    },
+    {
+      "id": "16",
+      "title": "Polarized Sports Sunglasses",
+      "price": 35.99,
+      "category": "Accessories",
+      "description": "UV400 protection polarized sunglasses designed specifically for cycling, running, and fishing.",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.3,
+      "stock": 67
+    },
+    {
+      "id": "17",
+      "title": "Adjustable Dumbbell Set",
+      "price": 249.99,
+      "category": "Fitness & Outdoor",
+      "description": "All-in-one selectorized dumbbell weights adjusting from 5 to 52.5 lbs with a simple dial turn.",
+      "image": "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.8,
+      "stock": 8
+    },
+    {
+      "id": "18",
+      "title": "Modern Abstract Canvas Art",
+      "price": 115.0,
+      "category": "Home Decor",
+      "description": "Large, gallery-wrapped geometric abstract canvas piece to serve as a focal point for your living room.",
+      "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.6,
+      "stock": 12
+    },
+    {
+      "id": "19",
+      "title": "USB-C Ergonomic Wireless Mouse",
+      "price": 38.0,
+      "category": "Electronics",
+      "description": "Rechargeable vertical mouse mapped to match natural hand placement, reducing wrist strain.",
+      "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.4,
+      "stock": 89
+    },
+    {
+      "id": "20",
+      "title": "Stainless Steel Espresso Maker",
+      "price": 42.5,
+      "category": "Kitchen",
+      "description": "Classic Italian-style 6-cup stovetop Moka pot for brewing rich, authentic espresso at home.",
+      "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=400&q=80",
+      "rating": 4.7,
+      "stock": 33
+    }
+  ]
+}
