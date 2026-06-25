@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const BooksCard = ({ book }) => {
   const { title, author, price, publishedYear, description } = book;
   return (
@@ -9,6 +11,11 @@ const BooksCard = ({ book }) => {
         <div className="flex justify-between">
           <p>${price}</p>
           <p>{author}</p>
+        </div>
+        <div className="justify-end card-actions">
+          <Link href={`/books/${book.id}`}>
+            <button className="btn">Details...</button>
+          </Link>
         </div>
       </div>
     </div>
